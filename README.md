@@ -6,5 +6,7 @@ Export items from BASE API v1 https://github.com/baseinc/api-docs#readme
 
 ```
 composer install
+export BASE_CLIENT_ID=2313....
+export BASE_CLIENT_SECRET=c016c....
 bin/cake server
 ```
